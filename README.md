@@ -1,6 +1,12 @@
-# chevrolet_app
+# Chevrolet_app
 
 A new Flutter application.
+
+##Screen
+
+<p>
+	<img src="https://github.com/sad1996/chevrolet_app/blob/master/screenrecord/chevrolet.gif?raw=true" width="250" height="443"/>
+</p>
 
 ## Getting Started
 
