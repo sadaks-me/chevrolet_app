@@ -1,0 +1,48 @@
+name: chevrolet
+description: A new Flutter project.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+  - assets/chevrolet.png
+  - assets/cars/car1.png
+  - assets/cars/car2.png
+  - assets/cars/car3.png
+  - assets/cars/car4.png
+  - assets/cars/car5.png
+
+
+  fonts:
+  - family: Fette
+    fonts:
+    - asset: assets/fonts/fette.ttf
+  - family: Denial
+    fonts:
+    - asset: assets/fonts/denial.ttf
+
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.io/custom-fonts/#from-packages
